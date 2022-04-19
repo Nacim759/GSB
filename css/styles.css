@@ -1,0 +1,59 @@
+/* DEBUT ENTETE */
+#entete{
+	background-color:rgb(72,198,236);
+	color : #980101;
+	border: solid 0.1em #980101;
+	height: 170px;
+	padding: 0em;
+	border-collapse: separate;
+}
+
+#entete h1 {
+  margin : 0em;
+  margin-left:6em;
+  font-size : xx-large;
+  text-align:center;
+}
+/* FIN ENTETE */
+
+body{
+	background-color: #77AADD;
+	background-image: url(imgs/FONDGLOBAL.jpg);
+	background-repeat: repeat-x;
+	margin:0% 0%;
+	padding : 0.6em;
+	font-family:"Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+	font-size:0.8em;
+}
+
+#page {
+  background-color:white;
+  width : 100%;
+  margin : auto;
+  border : 0.2em solid black;
+  padding : 0.1em;
+}
+
+#contenu{
+	border: none;
+	padding: 1.3em;
+	background-color: white;
+	border-left :  groove 0.8em #980101;
+	margin-top : 1.2em;
+	margin-left: 18%;
+	min-height:27em;
+}
+
+#contenu h2{
+	font-size : x-large;
+}
+
+#contenu h3{
+	font-size : larger;
+}
+
+#nav{
+	background-color : rgb(72,198,236);
+	font-size : 16px;
+	padding-left : 5px;
+}
